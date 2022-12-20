@@ -1,1 +1,2 @@
-# bolinha-bonita-
+# synchronousBallMovement
+Ball moving synchronously
